@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purchase Tracker v2", "Purchase Tracker v2.csproj", "{ACE13B76-D22E-4232-B9DA-DFC20B389212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE13B76-D22E-4232-B9DA-DFC20B389212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE13B76-D22E-4232-B9DA-DFC20B389212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE13B76-D22E-4232-B9DA-DFC20B389212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE13B76-D22E-4232-B9DA-DFC20B389212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E613E5D-6261-4E28-819F-929CBD24A4FC}
+	EndGlobalSection
+EndGlobal
